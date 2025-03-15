@@ -9,7 +9,7 @@
 
 Перед запуском необходимо склонировать проект:
 ```bash
-git clone git@github.com:Denmais/Airflow_and_spark.git
+git clone git@github.com:Denmais/mongo_airflow.git
 
 ```
 
@@ -84,6 +84,4 @@ LEFT JOIN
 LEFT JOIN
     productCategories pc ON p.category_id = pc.category_id;
 ```
-
-## Пример запросов:
 
